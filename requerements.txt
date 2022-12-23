@@ -1,0 +1,4 @@
+numpy
+opencv-python
+matplotlib
+pyton-telegram-bot
